@@ -13,6 +13,7 @@ Year,Series,Unit,Value
 2019,Deaths and missing persons attributed to disasters,"Per 100,000 population",0.02
 2020,Deaths and missing persons attributed to disasters,"Per 100,000 population",0.41
 2021,Deaths and missing persons attributed to disasters,"Per 100,000 population",6.55
+2022,Deaths and missing persons attributed to disasters,"Per 100,000 population",7.65
 2005,Directly affected persons attributed to disasters,"Per 100,000 population",0.03
 2006,Directly affected persons attributed to disasters,"Per 100,000 population",3.22
 2007,Directly affected persons attributed to disasters,"Per 100,000 population",813.23
@@ -22,3 +23,9 @@ Year,Series,Unit,Value
 2013,Directly affected persons attributed to disasters,"Per 100,000 population",3.2
 2019,Directly affected persons attributed to disasters,"Per 100,000 population",22.01
 2020,Directly affected persons attributed to disasters,"Per 100,000 population",33.82
+2010,Directly affected persons attributed to disasters,"Per 100,000 population",
+2011,Directly affected persons attributed to disasters,"Per 100,000 population",
+2014,Directly affected persons attributed to disasters,"Per 100,000 population",
+2015,Directly affected persons attributed to disasters,"Per 100,000 population",
+2021,Directly affected persons attributed to disasters,"Per 100,000 population",
+2022,Directly affected persons attributed to disasters,"Per 100,000 population",
