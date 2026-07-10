@@ -48,6 +48,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 United Nations Population Fund (UNFPA)",,,,Unit,line
 #11-b-1,complete,United Nations Office for Disaster Reduction (UNDRR),,,,Unit,line
 #11-b-2,complete,United Nations Office for Disaster Reduction (UNDRR),,,,Unit,line
+#11-c-1,notstarted,UN-Habitat (Custodian agency). OECD supporting agency.,True,,,,line
 #12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-1,complete,United Nations Environment Programme (UNEP),,,,Unit,line
 #12-2-2,complete,United Nations Environment Programme (UNEP),,,,Unit,line
@@ -155,7 +156,7 @@ United Nations Development Programme (UNDP)",,,,Unit,line
 #17-18-2,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,Unit,line
 #17-19-1,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,Unit,line
-#17-19-2,notstarted,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
+#17-19-2,notstarted,United Nations Statistics Division (UNSD),,,,,line
 #17-2-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #17-3-1,complete,International Forum on TOSSD (independent entity hosted by the OECD) and the United Nations Trade and Development (UNCTAD),,,,Unit,line
 #17-3-2,complete,World Bank (WB),,,,Unit,line
@@ -298,7 +299,7 @@ International Labour Organization (ILO)",,,,,line
 #8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,Unit,line
 #8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
 #9-1-1,notstarted,World Bank,,,,,line
-#9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); UN Trade and Development (UNCTAD).,,,,Unit,line
+#9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,Unit,line
 #9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,,Unit,line
 #9-2-2,complete,"United Nations Industrial Development Organization (UNIDO)
 (with the collaboration of the International Labour Organization &#x2013; ILO)",,,,Unit,line
